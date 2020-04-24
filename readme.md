@@ -6,4 +6,4 @@ the sentence "Hello World!" on a screen. The blinking LED is the "Hello World!" 
 
 ## Used HW
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![STM32F4disco](doc/STM32F4disco.png)
